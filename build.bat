@@ -1,0 +1,1 @@
+pyinstaller mainWindow.spec
