@@ -13,7 +13,7 @@ mws==0.7.3
 pexpect==4.2.1
 pkginfo==1.4.1
 ptyprocess==0.5.2
-py==1.4.34
+py==1.10.0
 PyInstaller==3.2.1
 pypiwin32==219
 PyQt5==5.9
